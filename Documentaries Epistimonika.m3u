@@ -1,0 +1,73 @@
+# Hermes-Documentaries-Epistimonika
+
+#EXTM3U
+
+#EXTINF:1,Η ΑΠΑΤΗ ΤΗΣ ΠΡΟΣΣΕΛΗΝΩΣΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=RIlwqWva4ms
+
+#EXTINF:1,Η ΜΟΙΡΑ ΤΟΥ ΠΛΑΝΗΤΗ ΜΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=GBO8wHk2Cs4
+
+#EXTINF:1,Η ΤΑΧΥΤΗΤΑ ΤΟΥ ΦΩΤΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=oLjGJOP9Cb4
+
+#EXTINF:1,ΤΟ ΘΑΥΜΑ ΤΗΣ ΖΩΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=w_-y65DXw0g
+
+#EXTINF:1,ΤΟ ΧΤΙΣΙΜΟ ΤΗΣ ΠΥΡΑΜΙΔΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=5AYw0_MyYZA
+
+#EXTINF:1, ΜΑΘΗΜΑΤΙΚΑ ΤΟΥ ΧΑΟΥΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=tr4vzzbLDE4
+
+#EXTINF:1,ΠΩΣ Η ΚΑΝΝΑΒΗ ΘΕΡΑΠΕΥΕΙ ΤΟΝ ΚΑΡΚΙΝΟ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=XtQk0w6ZXA8
+
+#EXTINF:1,ΕΓΩΓΗΙΝΑ ΑΡΧΑΙΟΛΟΓΙΚΑ ΕΥΡΗΜΑΤΑ ΣΤΗ ΒΟΛΙΒΙΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=iLgGcBdjf9w
+
+#EXTINF:1,ΤΑ ΜΥΣΤΗΡΙΑ ΤΩΝ ΑΡΧΑΙΩΝ ΠΟΛΙΤΙΣΜΩΝ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=aAYf-HQFZWk
+
+#EXTINF:1,ΜΕΛΕΤΩΝΤΑΣ ΤΟΝ ΟΥΡΑΝΟ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=YVZQSWBSunc
+
+#EXTINF:1,ΜΟΝΟΠΑΤΙΑ ΤΟΥ ΕΛΛΗΝΙΚΟΥ ΒΥΘΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=813koFTTKpI
+
+#EXTINF:1,ΑΛΕΞΑΝΔΡΕΙΑ - ΠΟΛΗ ΚΑΤΩ ΑΠΟ ΤΗΝ ΘΑΛΑΣΣΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=p6xpOr9oagM
+
+#EXTINF:1,ΑΝΕΞΗΓΗΤΑ ΦΑΙΝΟΜΕΝΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=Vx1LuzOiv38
+
+#EXTINF:1,ΚΩΔΙΚΑΣ ΝΤΑ ΒΙΝΤΣΙ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=IHpNQsHIIsQ
+
+#EXTINF:1,ΟΙ ΤΟΠΟΙ ΤΩΝ ΜΥΘΩΝ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=QNmVO__RbLo
+
+#EXTINF:1,Η ΑΝΘΡΩΠΟΤΗΤΑ ΠΕΙΡΑΜΑΤΟΖΩΟ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=cALzBfBReUc
+
+#EXTINF:1,ΣΕΛΗΝΗ - Ο ΗΛΙΟΣ ΤΗΣ ΝΥΧΤΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=jFUjxnHVOYE
+
+#EXTINF:1,ΤΑ ΜΥΣΤΙΚΑ ΤΟΥ ΗΛΙΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=SgOobYdOvjU
+
+#EXTINF:1,ΠΛΑΝΗΤΗΣ ΓΗ - Ο ΖΩΝΤΑΝΟΣ ΜΗΧΑΝΙΣΜΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=nAnbQuDfW4Q
+
+#EXTINF:1,ΣΤΑ ΑΔΥΤΑ ΤΟΥ ΕΓΚΕΦΑΛΟΥ, ΤΗΣ ΣΥΝΕΙΔΗΣΗΣ ΚΑΙ ΤΗΣ ΣΚΕΨΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=qcdTwdd8P-4
+
+#EXTINF:1,ΕΚΚΕΝΩΣΤΕ ΤΗΝ ΓΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=iMOfbXa8zYg
+
+#EXTINF:1,Η ΜΑΓΕΙΑ ΣΤΗΝ ΑΦΡΙΚΗ ΚΑΙ Η ΟΡΘΟΔΟΞΗ ΔΥΝΑΜΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=JZdNYQvmc_0
+
+#EXTINF:1,ΚΑΤΑΣΤΡΟΦΕΣ ΣΤΟ ΜΑΚΡΙΝΟ ΔΙΑΣΤΗΜΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=UXKtu0JwdDc
+
