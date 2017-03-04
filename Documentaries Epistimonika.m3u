@@ -8,6 +8,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=dyFQzV3K2VI
 #EXTINF:1,ΤΑ ΜΥΣΤΙΚΑ ΚΑΙ Η ΨΕΥΔΑΙΣΘΗΣΗ ΤΟΥ ΧΡΟΝΟΥ
 plugin://plugin.video.youtube/?action=play_video&videoid=pTJdv3W3nuc
 
+#EXTINF:1,Η ΙΣΤΟΡΙΑ ΤΟΥ ΚΟΣΜΟΥ ΜΕΣΑ ΣΕ 2 ΩΡΕΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=neOSet0fu8c
+
 #EXTINF:1,Η ΑΠΑΤΗ ΤΗΣ ΠΡΟΣΣΕΛΗΝΩΣΗΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=RIlwqWva4ms
 
