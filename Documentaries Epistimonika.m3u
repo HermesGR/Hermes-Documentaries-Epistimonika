@@ -2,6 +2,60 @@
 
 #EXTM3U
 
+#EXTINF:1,Το Μυστήριο Του Ανθρώπινου Εγκεφάλου
+plugin://plugin.video.youtube/?action=play_video&videoid=fNbTIcTlzOo
+
+#EXTINF:1,Κβαντική Θεωρία Φυσική των Πιθανοτήτων
+plugin://plugin.video.youtube/?action=play_video&videoid=Zuf_C__Ajn0
+
+#EXTINF:1,ΣΧΙΖΟΦΡΕΝΕΙΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=j4dycEMQaLw
+
+#EXTINF:1,Το Φαινομενο Του Θερμοκηπιου Μια Μεγαλη Απατη
+plugin://plugin.video.youtube/?action=play_video&videoid=i4qn01Y-V54
+
+#EXTINF:1,ΜΥΣΤΙΚΗ ΠΕΡΙΟΧΗ 51
+plugin://plugin.video.youtube/?action=play_video&videoid=0JWlnp9MugY
+
+#EXTINF:1,Κβαντική Αποκάλυψη - Quantum Apocalypse
+plugin://plugin.video.youtube/?action=play_video&videoid=Bvp9Qo8DzTw
+
+#EXTINF:1,Βιντεοσκόπηση της ανθρώπινης αύρας
+plugin://plugin.video.youtube/?action=play_video&videoid=jAjdCuLTJs0
+
+#EXTINF:1,Επιστημονική μελέτη αποδεικνύει μεταθανάτια ζωή
+plugin://plugin.video.youtube/?action=play_video&videoid=RttIf9jKSlM
+
+#EXTINF:1,Το μυστήριο του Τριγώνου των Βερμούδων
+plugin://plugin.video.youtube/?action=play_video&videoid=Vy2VjN6uJ0g
+
+#EXTINF:1,Ταξίδι στην άκρη του σύμπαντος 
+plugin://plugin.video.youtube/?action=play_video&videoid=4cGqxWtT-_0
+
+#EXTINF:1,Ναρκωτικά και εγκέφαλος - Κοκαΐνη και διεγερτικά
+plugin://plugin.video.youtube/?action=play_video&videoid=lEIlQp-_psk
+
+#EXTINF:1,Ναρκωτικά και εγκέφαλος - Νικοτίνη και Αλκοόλ
+plugin://plugin.video.youtube/?action=play_video&videoid=-nHpD080kbk
+
+#EXTINF:1,Ναρκωτικά και εγκέφαλος - Κάνναβις
+plugin://plugin.video.youtube/?action=play_video&videoid=IMG0MgzNkac
+
+#EXTINF:1,Ναρκωτικά και εγκέφαλος - Οπιούχα και ηρεμιστικά
+plugin://plugin.video.youtube/?action=play_video&videoid=tM43Vh8o0zA
+
+#EXTINF:1,Ναρκωτικά και εγκέφαλος - Παραισθησιογόνα και Έκσταση
+plugin://plugin.video.youtube/?action=play_video&videoid=4DEx3n4IMZs
+
+#EXTINF:1,Η άνοδος του ανθρώπου
+plugin://plugin.video.youtube/?action=play_video&videoid=mUIE-EBVg88
+
+#EXTINF:1,UFO ΑΚΡΩΣ ΑΠΟΡΡΗΤΟ
+plugin://plugin.video.youtube/?action=play_video&videoid=EBY9NBcC0FM
+
+#EXTINF:1,Το Θαύμα της Ζωής - Η Εξέλιξη
+plugin://plugin.video.youtube/?action=play_video&videoid=w_-y65DXw0g
+
 #EXTINF:1,ΔΙΑΣΤΗΜΑ - ΤΟ ΥΦΑΝΤΟ ΤΟΥ ΚΟΣΜΟΥ
 plugin://plugin.video.youtube/?action=play_video&videoid=dyFQzV3K2VI
 
