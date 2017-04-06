@@ -2,6 +2,9 @@
 
 #EXTM3U
 
+#EXTINF:1,Το Μυστικό
+plugin://plugin.video.youtube/?action=play_video&videoid=zH2qqPVWang
+
 #EXTINF:1,Το Μυστήριο Του Ανθρώπινου Εγκεφάλου
 plugin://plugin.video.youtube/?action=play_video&videoid=fNbTIcTlzOo
 
