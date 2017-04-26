@@ -2,6 +2,9 @@
 
 #EXTM3U
 
+#EXTINF:1,End Of The Earth !!
+plugin://plugin.video.youtube/?action=play_video&videoid=CPPqY2EZ8VY
+
 #EXTINF:1,Αποκάλυψη Εξωγήινης Ζωής
 plugin://plugin.video.youtube/?action=play_video&videoid=f_AlvHyo4mI
 
@@ -14,13 +17,13 @@ plugin://plugin.video.youtube/?action=play_video&videoid=fNbTIcTlzOo
 #EXTINF:1,Κβαντική Θεωρία Φυσική των Πιθανοτήτων
 plugin://plugin.video.youtube/?action=play_video&videoid=Zuf_C__Ajn0
 
-#EXTINF:1,ΣΧΙΖΟΦΡΕΝΕΙΑ
+#EXTINF:1,Σχιζοφρένεια
 plugin://plugin.video.youtube/?action=play_video&videoid=j4dycEMQaLw
 
 #EXTINF:1,Το Φαινομενο Του Θερμοκηπιου Μια Μεγαλη Απατη
 plugin://plugin.video.youtube/?action=play_video&videoid=i4qn01Y-V54
 
-#EXTINF:1,ΜΥΣΤΙΚΗ ΠΕΡΙΟΧΗ 51
+#EXTINF:1,Μυστική Περιοχή 51
 plugin://plugin.video.youtube/?action=play_video&videoid=0JWlnp9MugY
 
 #EXTINF:1,Κβαντική Αποκάλυψη - Quantum Apocalypse
