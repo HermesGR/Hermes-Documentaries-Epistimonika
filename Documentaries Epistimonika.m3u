@@ -2,46 +2,49 @@
 
 #EXTM3U
 
-#EXTINF:1,End Of The Earth !!
+#EXTINF:1,ΠΩΣ ΔΗΜΙΟΥΡΓΗΘΗΚΕ Η ΓΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=n-BaNKKNga0
+
+#EXTINF:1,END OF THE EARTH !!
 plugin://plugin.video.youtube/?action=play_video&videoid=CPPqY2EZ8VY
 
-#EXTINF:1,Αποκάλυψη Εξωγήινης Ζωής
+#EXTINF:1,ΑΠΟΚΑΛΥΨΗ ΕΞΩΓΗΙΝΗΣ ΖΩΗΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=f_AlvHyo4mI
 
-#EXTINF:1,Το Μυστικό
+#EXTINF:1,ΤΟ ΜΥΣΤΙΚΟ
 plugin://plugin.video.youtube/?action=play_video&videoid=zH2qqPVWang
 
-#EXTINF:1,Το Μυστήριο Του Ανθρώπινου Εγκεφάλου
+#EXTINF:1,ΤΟ ΜΥΣΤΗΡΙΟ ΤΟΥ ΑΝΘΡΩΠΙΝΟΥ ΕΓΚΕΦΑΛΟΥ
 plugin://plugin.video.youtube/?action=play_video&videoid=fNbTIcTlzOo
 
-#EXTINF:1,Κβαντική Θεωρία Φυσική των Πιθανοτήτων
+#EXTINF:1,ΚΒΑΝΤΙΚΗ ΘΕΩΡΙΑ ΦΥΣΙΚΗ ΤΩΝ ΠΙΘΑΝΟΤΗΤΩΝ
 plugin://plugin.video.youtube/?action=play_video&videoid=Zuf_C__Ajn0
 
-#EXTINF:1,Σχιζοφρένεια
+#EXTINF:1,ΣΧΙΖΟΦΡΕΝΕΙΑ
 plugin://plugin.video.youtube/?action=play_video&videoid=j4dycEMQaLw
 
-#EXTINF:1,Το Φαινομενο Του Θερμοκηπιου Μια Μεγαλη Απατη
+#EXTINF:1,ΤΟ ΦΑΙΝΟΜΕΝΟ ΤΟΥ ΘΕΡΜΟΚΗΠΙΟΥ - ΜΙΑ ΜΕΓΑΛΗ ΑΠΑΤΗ
 plugin://plugin.video.youtube/?action=play_video&videoid=i4qn01Y-V54
 
-#EXTINF:1,Μυστική Περιοχή 51
+#EXTINF:1,ΜΥΣΤΙΚΗ ΠΕΡΙΟΧΗ 51
 plugin://plugin.video.youtube/?action=play_video&videoid=0JWlnp9MugY
 
-#EXTINF:1,Κβαντική Αποκάλυψη - Quantum Apocalypse
+#EXTINF:1,ΚΒΑΝΤΙΚΗ ΑΠΟΚΑΛΥΨΗ - QUANTUM APOCALYPSE
 plugin://plugin.video.youtube/?action=play_video&videoid=Bvp9Qo8DzTw
 
-#EXTINF:1,Βιντεοσκόπηση της ανθρώπινης αύρας
+#EXTINF:1,ΒΙΝΤΕΟΣΚΟΠΗΣΗ ΤΗΣ ΑΝΘΡΩΠΙΝΗΣ ΑΥΡΑΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=jAjdCuLTJs0
 
-#EXTINF:1,Επιστημονική μελέτη αποδεικνύει μεταθανάτια ζωή
+#EXTINF:1,ΕΠΙΣΤΗΜΟΝΙΚΗ ΜΕΛΕΤΗ ΑΠΟΔΕΙΚΝΥΕΙ ΜΕΤΑΘΑΝΑΤΙΑ ΖΩΗ
 plugin://plugin.video.youtube/?action=play_video&videoid=RttIf9jKSlM
 
-#EXTINF:1,Το μυστήριο του Τριγώνου των Βερμούδων
+#EXTINF:1,ΤΟ ΜΥΣΤΗΡΙΟ ΤΟΥ ΤΡΙΓΩΝΟΥ ΤΩΝ ΒΕΡΜΟΥΔΩΝ
 plugin://plugin.video.youtube/?action=play_video&videoid=Vy2VjN6uJ0g
 
-#EXTINF:1,Ταξίδι στην άκρη του σύμπαντος 
+#EXTINF:1,ΤΑΞΙΔΙ ΣΤΗΝ ΑΚΡΗ ΤΟΥ ΣΥΜΠΑΝΤΟΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=4cGqxWtT-_0
 
-#EXTINF:1,Ναρκωτικά και εγκέφαλος - Κοκαΐνη και διεγερτικά
+#EXTINF:1,ΝΑΡΚΩΤΙΚΑ ΚΑΙ ΕΓΚΕΦΑΛΟΣ - ΚΟΚΑΙΝΗ ΚΑΙ ΔΙΕΓΕΡΤΙΚΑ
 plugin://plugin.video.youtube/?action=play_video&videoid=lEIlQp-_psk
 
 #EXTINF:1,Ναρκωτικά και εγκέφαλος - Νικοτίνη και Αλκοόλ
