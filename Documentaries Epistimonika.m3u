@@ -2,11 +2,20 @@
 
 #EXTM3U
 
+#EXTINF:1,ΑΙΘΑΛΟΜΙΧΛΗ Ο ΣΙΩΠΗΛΟΣ ΦΟΝΙΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=aAsguYE2v7Q
+
+#EXTINF:1,ΤΟ ΤΟΥΝΕΛ ΤΟΥ ΜΕΛΛΟΝΤΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=E2XEkaF3jMw
+
 #EXTINF:1,ΠΩΣ ΔΗΜΙΟΥΡΓΗΘΗΚΕ Η ΓΗ
 plugin://plugin.video.youtube/?action=play_video&videoid=n-BaNKKNga0
 
 #EXTINF:1,END OF THE EARTH !!
 plugin://plugin.video.youtube/?action=play_video&videoid=CPPqY2EZ8VY
+
+#EXTINF:1,ΕΞΩΓΗΙΝΗ ΖΩΗ ΚΑΙ ΕΠΙΣΤΗΜΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=tM_4my_6Gg0
 
 #EXTINF:1,ΑΠΟΚΑΛΥΨΗ ΕΞΩΓΗΙΝΗΣ ΖΩΗΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=f_AlvHyo4mI
